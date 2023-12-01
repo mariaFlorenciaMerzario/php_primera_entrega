@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.info{
+    width: 30%!important;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.mayor{
+    background-color: pink;
+}
+
+.menor{
+    background-color: rgb(141, 141, 230);
+}
+
+.saludable{
+    background-color: greenyellow;
+}
